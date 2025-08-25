@@ -14,7 +14,7 @@
   
 ## Hi, I’m Joe!
 
-I’m a student developer currently pursion a Bachelor of Science degree in Computer Science at Wright State University.<br>
+I’m a student developer currently pursuing a Bachelor of Science degree in Computer Science at Wright State University.<br>
 I've enjoyed creating things all my life, whether they be useful computer programs, 3D models, textures, or music.<br>
 Currently learning Git, GUI programming, and preparing for internships.  
 
