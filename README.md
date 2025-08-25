@@ -40,7 +40,7 @@ Currently learning Git, GUI programming, and preparing for internships.
 <tr>
 <th>Languages</th>
 <th>Frameworks</th>
-<th>Tools</th>
+<th>Tools & Software</th>
 
 </tr>
 <tr>
@@ -50,19 +50,19 @@ Currently learning Git, GUI programming, and preparing for internships.
 <img src="https://img.shields.io/badge/Java-f1941d?style=popout&logoColor=white"/>
 <img src="https://img.shields.io/badge/Latex-008080?style=popout&logo=latex&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-2268bb?style=popout&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoHotkey-a4d2a6?style=popout&logo=autohotkey&logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-343a40?style=popout&logo=markdown&logoColor=white"/>
 </td>
 
 <td width="338">
-<img src="https://img.shields.io/badge/Git-F05032?style=popout&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qt-2cde85?style=popout&logo=qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaFX-4ba3cb?style=popout&logoColor=white"/>
-<img src="https://img.shields.io/badge/AutoHotkey-a4d2a6?style=popout&logo=autohotkey&logoColor=white"/>
 </td>
 
 <td width="338">
+<img src="https://img.shields.io/badge/Git-F05032?style=popout&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualStudio-9f73d5?style=popout&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-050f36?style=popout&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse_IDE-050f36?style=popout&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitKraken-148e84?style=popout&logo=gitkraken&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blender-f86d21?style=popout&logo=blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/AbletonLive-black?style=popout&logoColor=white"/>
