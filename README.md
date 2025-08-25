@@ -45,7 +45,7 @@ Currently learning Git, GUI programming, and preparing for internships.
 </tr>
 <tr>
   
-<td width="338">
+<td width="338" align="left" valign="top">
 <img src="https://img.shields.io/badge/C++-015798?style=popout&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-f1941d?style=popout&logoColor=white"/>
 <img src="https://img.shields.io/badge/Latex-008080?style=popout&logo=latex&logoColor=white"/>
@@ -54,12 +54,12 @@ Currently learning Git, GUI programming, and preparing for internships.
 <img src="https://img.shields.io/badge/Markdown-343a40?style=popout&logo=markdown&logoColor=white"/>
 </td>
 
-<td width="338">
+<td width="338" align="left" valign="top">
 <img src="https://img.shields.io/badge/Qt-2cde85?style=popout&logo=qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaFX-4ba3cb?style=popout&logoColor=white"/>
 </td>
 
-<td width="338">
+<td width="338" align="left" valign="top">
 <img src="https://img.shields.io/badge/Git-F05032?style=popout&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualStudio-9f73d5?style=popout&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse_IDE-050f36?style=popout&logo=eclipseide&logoColor=white"/>
