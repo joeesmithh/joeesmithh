@@ -20,8 +20,21 @@
 <div style="padding: 10px; border-radius: 12px; background: #fff; border: 1px solid #ddd;">
   
 Student developer pursuing a Bachelor of Science degree in Computer Science at Wright State University.<br>
+
 Enjoys creating things, whether they be apps, games, 3D models, textures, or music.<br>
-Currently learning Git, GUI programming, and preparing for internships.  
+
+Currently learning Git, GUI programming, and preparing for internships.
+
+- **Name**: Joseph Smith
+- **Major**: Computer Science
+- **Future Projects**:
+  - **Spreadsheet app**:
+    - Written in C++
+    - Uses Qt6 framework for GUI
+    - Implement common spreadsheet functionality such as file saving and importing, sorting, copying, and pasting columns, etc.
+  - **Bell's inequality experiment**:
+    - Uses quantum computing techniques
+    - Experimenting with entangled qubits
 
 </div>
 </td>
@@ -32,6 +45,8 @@ Currently learning Git, GUI programming, and preparing for internships.
 </div>
 
 <br />
+
+##
 
 ## Skills
 
