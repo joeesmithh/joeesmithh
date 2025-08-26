@@ -19,8 +19,8 @@
 <td width="1000" valign="top">
 <div style="padding: 10px; border-radius: 12px; background: #fff; border: 1px solid #ddd;">
   
-I’m a student developer pursuing a Bachelor of Science degree in Computer Science at Wright State University.<br>
-I've enjoyed creating things all my life, whether they be useful computer programs, 3D models, textures, or music.<br>
+Student developer pursuing a Bachelor of Science degree in Computer Science at Wright State University.<br>
+Enjoys creating things, whether they be apps, games, 3D models, textures, or music.<br>
 Currently learning Git, GUI programming, and preparing for internships.  
 
 </div>
