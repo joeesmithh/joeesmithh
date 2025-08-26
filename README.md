@@ -63,8 +63,9 @@ Currently learning Git, GUI programming, and preparing for internships.
 <img src="https://img.shields.io/badge/Git-F05032?style=popout&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio-9f73d5?style=popout&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse_IDE-050f36?style=popout&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-f86d21?style=popout&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=popout&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitKraken-148e84?style=popout&logo=gitkraken&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-f86d21?style=popout&logo=blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ableton_Live-black?style=popout&logoColor=white"/>
 </td>
 
