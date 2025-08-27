@@ -74,7 +74,7 @@ Currently learning Git, GUI programming, and preparing for internships.
 
 <td width="338" align="left" valign="top">
 <img src="https://img.shields.io/badge/Git-F05032?style=popout&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio-9f73d5?style=popout&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-9f73d5.svg?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgd2lkdGg9IjgwMHB4IiBoZWlnaHQ9IjgwMHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZGF0YS1uYW1lPSJMYXllciAxIj48cGF0aCBkPSJNMTYuODUsMiw5LjA5LDkuNzcsNC4xOSw1LjkxLDIuMDUsN1YxN0w0LjIsMTguMDlsNC45My0zLjg1TDE2Ljg3LDIyLDIyLDE5LjkzVjRaTTQuMzcsMTQuM1Y5LjY1bDIuNDQsMi40M1pNMTYuNywxNS41OSwxMi4wNSwxMiwxNi43LDguNDFaIi8+PC9zdmc+&style=popout&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse_IDE-050f36?style=popout&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-f86d21?style=popout&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=popout&logo=unity&logoColor=white"/>
