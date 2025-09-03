@@ -9,35 +9,16 @@
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="200" height="200" />
       </td>
       <td width="1000" valign="top">
-        <div style="padding: 10px; border-radius: 12px; background: #fff; border: 1px solid #ddd;">
-
-  Student developer pursuing a Bachelor of Science degree in Computer Science at Wright State University.<br>
-  Enjoys creating things, whether they be apps, games, 3D models, textures, or music.<br>
-  Currently learning Git, GUI programming, and preparing for internships.
-
-  ---
-
-  **Name**: Joseph Smith<br>
-  **Major**: Computer Science<br>
-  **Future Projects**:
-  - **Spreadsheet app**:
-    - Implement common spreadsheet functionality such as file saving and importing, sorting, copying, and pasting columns, etc.
-    - Written in C++ using Qt6 GUI framework
-  - **Sorting Visualizer:**
-    - The user can enter list values, pick a sorting
-        algorithm (bubble, quick, merge, etc) and visualize the process
-    - Written in C++ using Qt6 GUI framework
-  - **Bell's inequality experiment**:
-    - Uses quantum computing techniques
-    - Experimenting with entangled qubits
-
+        <div>
+          <p>Student developer pursuing a Bachelor of Science degree in Computer Science at Wright State University.<br>
+          Enjoys creating things, whether they be apps, games, 3D models, textures, or music.<br>
+          Currently learning Git, GUI programming, and preparing for internships.</p>
         </div>
       </td>
     </tr>
   </table>
 </div>
-
-<br />
+<br>
 
 ## Skills
 
